@@ -28,10 +28,10 @@ It's not required, but I'd appreciate if you would link my YouTube channel if yo
 | 14  | ✅ | [src](videos/014_finding_primes_in_python_with_the_sieve_of_eratosthenes) | [Finding Primes in Python with the Sieve of Eratosthenes](https://youtu.be/JA_YrFwE1hc) |
 | 15  | ✅ | [src](videos/015_writing_a_turing_machine_in_python_step_by_step) | [Writing a Turing Machine in Python Step by Step](https://youtu.be/oCkLiHYQ_t4) |
 | 16  | ✅ | [src](videos/016_why_a_list_derived__is_not_a_list_base_) | [Why a list\[Derived\] is NOT a list\[Base\]](https://youtu.be/58UKN11DBck) |
-| 17  |  | [src](videos/017_remove_unicode__characters_from_csv_files) | [Remove Unicode     ï¿½? Characters from CSV files](https://youtu.be/M3dEd08Y6CU) |
-| 18  |  | [src](videos/018_detecting_cycles_in_linked_lists_using_the_tortoise_and_hare_algorithm) | [Detecting Cycles in Linked Lists Using the Tortoise and Hare Algorithm](https://youtu.be/7B-ZpOrMtfs) |
-| 19  |  | [src](videos/019_stream_sample_random_sampling_a_read_once_stream_neat_trick) | [Stream Sample - Random Sampling a Read Once Stream \| Neat Trick](https://youtu.be/Ovi3jYkCUlM) |
-| 20  |  | [src](videos/020_cycles_in_linked_lists_part_2_find_the_start_of_the_cycle) | [Cycles in Linked Lists Part 2 - Find the Start of the Cycle](https://youtu.be/G4_-xIeatyY) |
+| 17  | ✅ | [src](videos/017_remove_unicode__characters_from_csv_files) | [Remove Unicode     ï¿½? Characters from CSV files](https://youtu.be/M3dEd08Y6CU) |
+| 18  | ✅ | [src](videos/018_detecting_cycles_in_linked_lists_using_the_tortoise_and_hare_algorithm) | [Detecting Cycles in Linked Lists Using the Tortoise and Hare Algorithm](https://youtu.be/7B-ZpOrMtfs) |
+| 19  | ✅ | [src](videos/019_stream_sample_random_sampling_a_read_once_stream_neat_trick) | [Stream Sample - Random Sampling a Read Once Stream \| Neat Trick](https://youtu.be/Ovi3jYkCUlM) |
+| 20  | ✅ | [src](videos/020_cycles_in_linked_lists_part_2_find_the_start_of_the_cycle) | [Cycles in Linked Lists Part 2 - Find the Start of the Cycle](https://youtu.be/G4_-xIeatyY) |
 | 21  |  | [src](videos/021_how_many_matches_in_a_single_elimination_tournament_challenge_question) | [How Many Matches in a Single Elimination Tournament? \| Challenge Question](https://youtu.be/A8xiZhrAtL4) |
 | 22  |  | [src](videos/022_solving_hard_leetcode_interview_questions_median_of_two_sorted_arrays) | [Solving Hard LeetCode Interview Questions \| Median of Two Sorted Arrays](https://youtu.be/Hp-2H1angdw) |
 | 23  |  | [src](videos/023_hard_leetcode_interview_question_regular_expression_matching) | [Hard LeetCode Interview Question \| Regular Expression Matching](https://youtu.be/OreCsv-XmGw) |
